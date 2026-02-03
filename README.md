@@ -22,7 +22,7 @@
 
 ## 🎯 Purpose & Philosophy
 
-**Tier‑1** is the foundational, pure implementation layer of the SeekReap AI recruitment platform. This repository contains **only business logic, algorithms, and core functionality**—completely decoupled from infrastructure, frameworks, deployment, and third‑party dependencies.
+**Tier‑1** is the foundational, pure implementation layer of the SeekReap verification system. This repository contains **only business logic, algorithms, and core functionality**—completely decoupled from infrastructure, frameworks, deployment, and third‑party dependencies.
 
 ### Core Principles
 - **Pure Business Logic**: Code that would work unchanged in any environment
